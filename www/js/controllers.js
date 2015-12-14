@@ -16,3 +16,7 @@ angular.module('app.controllers', [])
 .controller('profileCtrl', function($scope) {
 
 })
+
+  .controller('modulestakenCtrl', function($scope){
+
+  })
